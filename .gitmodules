@@ -1,0 +1,4 @@
+[submodule "src/ouster_ros"]
+	path = src/ouster_ros
+	url = https://github.com/ouster-lidar/ouster-ros.git
+	branch = ros2
